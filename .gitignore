@@ -3,7 +3,8 @@
 .idea/
 *.iml
 *.classpath
-
+target/*
+target/
 # Log file
 *.log
 
